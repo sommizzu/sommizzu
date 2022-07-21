@@ -4,7 +4,7 @@
 
 ### Jeong somi 👋
 
-        ![sommizzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sommizzu&show_icons=true&theme=radical)
+![sommizzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sommizzu&show_icons=true&theme=tokyonight)
 
 #### stack : jem :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
