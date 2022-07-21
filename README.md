@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=someee%20Github&fontSize=65)
+![sommizzu's Github stats](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=someee%20Github&fontSize=65)
 
 
 ### Jeong somi 👋
